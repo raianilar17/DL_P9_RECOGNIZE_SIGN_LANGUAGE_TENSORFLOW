@@ -52,7 +52,7 @@ My algorithm can recognize a sign representing a figure between 0 and 5 with 81%
     - Create a session
     - Initialize the session
     - Run the session to execute the graph
-- we can execute the graph multiple times as we've seen in model()
+- we can execute the graph multiple times.
 - The backpropagation and optimization is automatically done when running the session on the "optimizer" object.
 
 ### Future work:
